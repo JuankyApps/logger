@@ -2,7 +2,7 @@
   "name": "@juankyapps/logger",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "compile": "npx tsc",
     "clean": "rimraf dist",
