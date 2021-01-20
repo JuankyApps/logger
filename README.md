@@ -2,6 +2,8 @@
 
 Simple logging utility. Its small and it uses moment.
 
+```npm i @juankyapps/logger```
+
 ## Features:
 
 - [x] Small
